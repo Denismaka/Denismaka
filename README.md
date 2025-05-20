@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis développeur fullstack avec 3 ans d'expérience dans le développement.<br> Actuellement, je travaille en tant que freelance et je collabore avec software-center sur divers projets.<br><br>J'aime partager mes connaissances et apprendre quelque chose de nouveau chaque jour. <br>Je crois fermement que l'échange d'idées et de compétences est essentiel pour grandir en tant que développeur.
+Je suis développeur fullstack avec 2 ans d'expérience dans le développement.<br> Actuellement, je travaille en tant que freelance et je collabore avec software-center sur divers projets.<br><br>J'aime partager mes connaissances et apprendre quelque chose de nouveau chaque jour. <br>Je crois fermement que l'échange d'idées et de compétences est essentiel pour grandir en tant que développeur.
 
 
 ## 🌐 Socials:
